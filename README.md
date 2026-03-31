@@ -1,2 +1,23 @@
-# Olorunfemi
-BuildWithFemi
+# Hi, I'm Olorunfemi Jegede 👋🏾
+
+CS Student majoring in ML/AI engineering. I love building real-world detection systems.
+
+---
+
+###  Tech Stack
+![Python](https://img.shields.io/badge/Python-3.12-blue?style=flat&logo=python)
+![XGBoost](https://img.shields.io/badge/XGBoost-orange?style=flat)
+![Streamlit](https://img.shields.io/badge/Streamlit-red?style=flat&logo=streamlit)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript)
+
+
+---
+
+### 🌍 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+
+[![X](https://img.shields.io/badge/X-black?style=flat&logo=x)](https://x.com/Buildwithfemi)
+
+---
+
+*Open to freelance, and collaborations* 
